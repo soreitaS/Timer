@@ -1,0 +1,20 @@
+C:\Users\İBRAHİM\Desktop\c# projeler\timer\timer\bin\Debug\timer.exe.config
+C:\Users\İBRAHİM\Desktop\c# projeler\timer\timer\bin\Debug\timer.exe
+C:\Users\İBRAHİM\Desktop\c# projeler\timer\timer\bin\Debug\timer.pdb
+C:\Users\İBRAHİM\Desktop\c# projeler\timer\timer\obj\Debug\timer.csproj.AssemblyReference.cache
+C:\Users\İBRAHİM\Desktop\c# projeler\timer\timer\obj\Debug\timer.Form1.resources
+C:\Users\İBRAHİM\Desktop\c# projeler\timer\timer\obj\Debug\timer.Properties.Resources.resources
+C:\Users\İBRAHİM\Desktop\c# projeler\timer\timer\obj\Debug\timer.csproj.GenerateResource.cache
+C:\Users\İBRAHİM\Desktop\c# projeler\timer\timer\obj\Debug\timer.csproj.CoreCompileInputs.cache
+C:\Users\İBRAHİM\Desktop\c# projeler\timer\timer\obj\Debug\timer.exe
+C:\Users\İBRAHİM\Desktop\c# projeler\timer\timer\obj\Debug\timer.pdb
+C:\Users\İBRAHİM\Desktop\github\Timer\timer\bin\Debug\timer.exe.config
+C:\Users\İBRAHİM\Desktop\github\Timer\timer\bin\Debug\timer.exe
+C:\Users\İBRAHİM\Desktop\github\Timer\timer\bin\Debug\timer.pdb
+C:\Users\İBRAHİM\Desktop\github\Timer\timer\obj\Debug\timer.csproj.AssemblyReference.cache
+C:\Users\İBRAHİM\Desktop\github\Timer\timer\obj\Debug\timer.Form1.resources
+C:\Users\İBRAHİM\Desktop\github\Timer\timer\obj\Debug\timer.Properties.Resources.resources
+C:\Users\İBRAHİM\Desktop\github\Timer\timer\obj\Debug\timer.csproj.GenerateResource.cache
+C:\Users\İBRAHİM\Desktop\github\Timer\timer\obj\Debug\timer.csproj.CoreCompileInputs.cache
+C:\Users\İBRAHİM\Desktop\github\Timer\timer\obj\Debug\timer.exe
+C:\Users\İBRAHİM\Desktop\github\Timer\timer\obj\Debug\timer.pdb
